@@ -14,15 +14,17 @@ The purpose of this analysis is to compare math and reading test scores across m
 
 
 - Replacing ninth-grade scores from Thomas highschool to NaN from a number does affect the scores by school spending and size, but not by type. 
-	-Math, reading, and overall % scores dropped in the $631-$645 spending range. 
-	-Math, reading, and overall % scores dropped in the medium size schools
-	-Math, reading, and overall % scores had no discrenable change in the school type. 
+	- Math, reading, and overall % scores dropped in the $631-$645 spending range. 
 
 ![This is an image](https://github.com/cwilkis/School_District_Analysis/blob/main/Resources/District%20summary%20original.png)
 ![This is an image](https://github.com/cwilkis/School_District_Analysis/blob/main/Resources/District%20Summary%20final.png)
 
+	- Math, reading, and overall % scores dropped in the medium size schools
+
 ![This is an image](https://github.com/cwilkis/School_District_Analysis/blob/main/Resources/school%20size%20original.png)
 ![This is an image](https://github.com/cwilkis/School_District_Analysis/blob/main/Resources/school%20size%20final.png)
+
+	- Math, reading, and overall % scores had no discrenable change in the school type. 
 
 ![This is an image](https://github.com/cwilkis/School_District_Analysis/blob/main/Resources/school%20type%20original.png)
 ![This is an image](https://github.com/cwilkis/School_District_Analysis/blob/main/Resources/school%20type%20final.png)
